@@ -60,7 +60,7 @@ All credential storage is AES-256 encrypted at rest. Session tokens are short-li
 Run this on your server and follow the prompts:
 
 ```bash
-git clone https://github.com/your-org/openportal.git
+git clone https://github.com/dag-coder/OpenPortal.git
 cd openportal
 bash setup.sh
 ```
@@ -93,7 +93,7 @@ After setup, log in with the admin email and password you chose. The first thing
 If you prefer to configure things yourself:
 
 ```bash
-git clone https://github.com/your-org/openportal.git
+git clone https://github.com/dag-coder/OpenPortal.git
 cd openportal
 cp .env.example .env
 ```
